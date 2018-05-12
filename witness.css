@@ -3,7 +3,7 @@
 * Based on: Bootstrap v4.0.0 (https://getbootstrap.com)
 * Copyright 2014-2018 Pingendo (https://pingendo.com)
 */
-@import url("https://fonts.googleapis.com/css?family=Montserrat");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab");
 /*!
  * Bootstrap v4.0.0 (https://getbootstrap.com)
  * Copyright 2011-2018 The Bootstrap Authors
@@ -61,7 +61,7 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 
 body {
   margin: 0;
-  font-family: Montserrat;
+  font-family: 'Roboto Slab', serif;
   font-size: 0.85rem;
   font-weight: 200;
   line-height: 1.8;
@@ -304,7 +304,7 @@ template {
 
 h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6 {
-  font-family: Montserrat;
+  font-family: 'Roboto Slab', serif;
   font-weight: 300;
   line-height: 1.2;
   color: inherit; }
@@ -3736,7 +3736,7 @@ button.close {
   z-index: 1070;
   display: block;
   margin: 0;
-  font-family: Montserrat;
+  font-family: 'Roboto Slab', serif;
   font-style: normal;
   font-weight: 200;
   line-height: 1.8;
@@ -3821,7 +3821,7 @@ button.close {
   z-index: 1060;
   display: block;
   max-width: 276px;
-  font-family: Montserrat;
+  font-family: 'Roboto Slab', serif;
   font-style: normal;
   font-weight: 200;
   line-height: 1.8;
